@@ -23,6 +23,6 @@ Then, the training & test data is merged to store all the data.
 Next, pick only the mean & std columns for calculation, group data by id & activity, calculate the mean and store the data in a table.
 
 File List - 
-* [Cookbook.md](https://github.com/Subramania/CE_Data_Cleansing/new/master?readme=1) for cookbook markdown
-* [Run_Analysis.R]() R file to cleanse & tidy data
-* [Result.txt] () Result text file
+* [CodeBook.md](https://github.com/Subramania/CE_Data_Cleansing/blob/master/CodeBook.md) for cookbook markdown
+* [run_analysis.R](https://github.com/Subramania/CE_Data_Cleansing/blob/master/run_analysis.r) R file to cleanse & tidy data
+* [result.txt] (https://github.com/Subramania/CE_Data_Cleansing/blob/master/result.txt) Result text file
