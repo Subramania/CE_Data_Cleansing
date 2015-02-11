@@ -24,5 +24,5 @@ Next, pick only the mean & std columns for calculation, group data by id & activ
 
 File List - 
 * [CodeBook.md](https://github.com/Subramania/CE_Data_Cleansing/blob/master/CodeBook.md) for cookbook markdown
-* [run_analysis.R](https://github.com/Subramania/CE_Data_Cleansing/blob/master/run_analysis.r) R file to cleanse & tidy data
+* [run_analysis.R](https://github.com/Subramania/CE_Data_Cleansing/blob/master/run_analysis.R) R file to cleanse & tidy data
 * [result.txt] (https://github.com/Subramania/CE_Data_Cleansing/blob/master/result.txt) Result text file
